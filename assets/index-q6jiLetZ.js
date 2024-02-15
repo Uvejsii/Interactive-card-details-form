@@ -2655,9 +2655,9 @@ function ef(e) {
     return rt(e) ? document.querySelector(e) : e
 }
 
-const sf = "bg-card-front-BU9fUX8l.png",
+const sf = "assets/bg-card-front-BU9fUX8l.png",
     nf = "data:image/svg+xml,%3csvg%20width='84'%20height='47'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cellipse%20cx='23.478'%20cy='23.5'%20rx='23.478'%20ry='23.5'%20fill='%23fff'/%3e%3cpath%20d='M83.5%2023.5c0%205.565-4.507%2010.075-10.065%2010.075-5.559%200-10.065-4.51-10.065-10.075%200-5.565%204.506-10.075%2010.065-10.075%205.558%200%2010.065%204.51%2010.065%2010.075Z'%20stroke='%23fff'/%3e%3c/svg%3e",
-    rf = "bg-card-back-BUIwGWj0.png",
+    rf = "assets/bg-card-back-BUIwGWj0.png",
     of = "data:image/svg+xml,%3csvg%20width='80'%20height='80'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3ccircle%20cx='40'%20cy='40'%20r='40'%20fill='url(%23a)'/%3e%3cpath%20d='M28%2039.92%2036.08%2048l16-16'%20stroke='%23fff'%20stroke-width='3'/%3e%3cdefs%3e%3clinearGradient%20id='a'%20x1='-23.014'%20y1='11.507'%20x2='0'%20y2='91.507'%20gradientUnits='userSpaceOnUse'%3e%3cstop%20stop-color='%236348FE'/%3e%3cstop%20offset='1'%20stop-color='%23610595'/%3e%3c/linearGradient%3e%3c/defs%3e%3c/svg%3e",
     Sl = (e, t) => {
         const s = e.__vccOpts || e;
